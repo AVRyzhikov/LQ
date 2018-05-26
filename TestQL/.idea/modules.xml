@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestQL.iml" filepath="$PROJECT_DIR$/TestQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestQL_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestQL_main.iml" group="TestQL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestQL_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestQL_test.iml" group="TestQL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/github-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/github-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/github-sample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/github-sample_main.iml" group="github-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/github-sample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/github-sample_test.iml" group="github-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-samle.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-samle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-samle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-samle_main.iml" group="rest-samle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-samle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-samle_test.iml" group="rest-samle" />
+    </modules>
+  </component>
+</project>

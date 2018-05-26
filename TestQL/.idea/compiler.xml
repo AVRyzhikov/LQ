@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="github-sample_main" target="1.8" />
+      <module name="github-sample_test" target="1.8" />
+      <module name="rest-samle_main" target="1.8" />
+      <module name="rest-samle_test" target="1.8" />
+      <module name="TestQL_main" target="1.8" />
+      <module name="TestQL_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

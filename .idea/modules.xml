@@ -5,8 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestQL.iml" filepath="$PROJECT_DIR$/.idea/modules/TestQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestQL_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestQL_main.iml" group="TestQL" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestQL_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestQL_test.iml" group="TestQL" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestT_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestT_main.iml" group="TestT" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestT_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestT_test.iml" group="TestT" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestT.iml" filepath="$PROJECT_DIR$/.idea/modules/TestT.iml" />
     </modules>
   </component>
 </project>
